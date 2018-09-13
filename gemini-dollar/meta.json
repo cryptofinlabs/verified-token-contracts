@@ -1,0 +1,5 @@
+{
+  "compiler": "v0.4.21+commit.dfe3193c",
+  "optimizer": true,
+  "runs": 200
+}
